@@ -1,2 +1,3 @@
 # Dicing
-This is my repository
+Hi there :)
+My name is Johannes Nissen, and this is my very own repository
